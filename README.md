@@ -71,10 +71,10 @@
 
 4. Создай файл `.env` в корне проекта:
    ```bash
-   BOT_TOKEN=1234567890:ABC-DEF1234ghIkl-zyx57W2v1u123ew11
+   BOT_TOKEN=1234567890:ABC-adfgdfdgl-zyx57W2v1u123ew11
    CHANNEL_ID=@your_channel_username
    PHONE=+79857661422
-   ALLOWED_USERS=528885082,5500054868
+   ALLOWED_USERS=525834082,5511344868
    ```
 
 5. Запусти бота:
@@ -144,7 +144,7 @@ evakuator-bot/
 **Эвакуатор Руза**  
 📍 Руза, Дорохово, Московская область  
 🌐 [evakuator-dorohovo.ru](https://evakuator-dorohovo.ru)  
-👨‍💻 Разработка и настройка: [@aleksdeal](https://t.me/aleksdeal)
+👨‍💻 Разработка и настройка: [@runcmdru](https://t.me/runcmdru)
 
 ---
 
